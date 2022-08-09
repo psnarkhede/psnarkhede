@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 👨‍💻 All of my projects are available at [https://piyushnarkhede-portfolio.netlify.app/](https://piyushnarkhede-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-piyushnarkhede.netlify.app](https://portfolio-piyushnarkhede.netlify.app)
 
 - 💬 Ask me about **react, redux and JavaScript**
 
