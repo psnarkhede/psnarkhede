@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psnarkhede&label=Profile%20views&color=0e75b6&style=flat" alt="psnarkhede" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psnarkhede" alt="psnarkhede" /></a> </p>
+
 - 🌱 I’m currently learning **react**
 
 - 👨‍💻 All of my projects are available at [https://piyushnarkhede.netlify.app](https://piyushnarkhede.netlify.app)
