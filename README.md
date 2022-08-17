@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **piyushnarkhede02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xCtqlw9xD3Mq4OOBWwDG8EIcRDsLcHZ5/view?usp=sharing](https://drive.google.com/file/d/1xCtqlw9xD3Mq4OOBWwDG8EIcRDsLcHZ5/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ay9c_GLuZ-u1G8-bGxJYIIOBOEDUFfwO/view?usp=sharing](https://drive.google.com/file/d/1ay9c_GLuZ-u1G8-bGxJYIIOBOEDUFfwO/view?usp=sharing)
 
 
 <h3 align="left" style="padding-top: 10px">Connect with me:</h3>
