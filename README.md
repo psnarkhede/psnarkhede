@@ -17,8 +17,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xCtqlw9xD3Mq4OOBWwDG8EIcRDsLcHZ5/view?usp=sharing](https://drive.google.com/file/d/1xCtqlw9xD3Mq4OOBWwDG8EIcRDsLcHZ5/view?usp=sharing)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img vspace="10px" src="https://github-profile-trophy.vercel.app/?username=psnarkhede" alt="psnarkhede" /></a> </p>
-
 <h3 align="left" style="padding-top: 10px">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/piyush-narkhede-75a07b162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-narkhede-75a07b162" height="30" width="40" /></a>
@@ -31,5 +29,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psnarkhede&show_icons=true&locale=en&layout=compact" alt="psnarkhede" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psnarkhede&show_icons=true&locale=en" alt="psnarkhede" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psnarkhede" alt="psnarkhede" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psnarkhede&" alt="psnarkhede" /></p>
