@@ -1,14 +1,15 @@
 [![MasterHead](https://content-webapi.tuni.fi/image-style/metatag_image/proxy/public/2020-12/JOP_Smart_fullstack_1440_koulutuskortti.png?itok=OKJ7EWZW)](https://psnarkhede.io)
 
 <h1 align="center">Hi 👋, I'm Piyush Narkhede</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">
+An aspiring full-stack web developer, passionate about programming and always ready to learn new and evolving technologies. Always keen to utilize my skills to optimize the quality of solutions and contribute my knowledge to problem-solving in an effective manner.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psnarkhede&label=Profile%20views&color=0e75b6&style=flat" alt="psnarkhede" /> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://piyushnarkhede.netlify.app](https://piyushnarkhede.netlify.app)
+- 👨‍💻 Portfolio link: [https://piyushnarkhede.netlify.app](https://piyushnarkhede.netlify.app)
 
 - 💬 Ask me about **react, redux and JavaScript**
 
