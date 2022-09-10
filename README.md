@@ -1,4 +1,4 @@
-[![MasterHead](https://content-webapi.tuni.fi/image-style/metatag_image/proxy/public/2020-12/JOP_Smart_fullstack_1440_koulutuskortti.png?itok=OKJ7EWZW)](https://psnarkhede.io)
+[![MasterHead](https://www.iss.nus.edu.sg/images/default-source/default-album/software-dev.jpg?Status=Master&sfvrsn=aa8aa05f_0)](https://psnarkhede.io)
 
 <h1 align="center">Hi 👋, I'm Piyush Narkhede</h1>
 <h3 align="center">
