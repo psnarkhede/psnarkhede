@@ -1,4 +1,4 @@
-[![MasterHead](https://www.iss.nus.edu.sg/images/default-source/default-album/software-dev.jpg?Status=Master&sfvrsn=aa8aa05f_0)](https://psnarkhede.io)
+[![MasterHead](https://www.thepostcity.com/wp-content/uploads/2020/12/Become-a-Web-Developer.jpg)](https://psnarkhede.io)
 
 <h1 align="center">Hi 👋, I'm Piyush Narkhede</h1>
 <h3 align="center">
